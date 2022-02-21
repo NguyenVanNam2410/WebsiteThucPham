@@ -1,0 +1,10 @@
+.image_path{
+    width: 100px;
+    height: 100px;
+}
+.anh_1{
+    width: 100px;
+}
+img.anh_2{
+    width: 100% !important;
+}

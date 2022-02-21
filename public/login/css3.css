@@ -1,0 +1,11 @@
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #abb7c4 !important;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    color: #2a2828 !important;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+
+    color: #1e1a1a !important;
+
+}

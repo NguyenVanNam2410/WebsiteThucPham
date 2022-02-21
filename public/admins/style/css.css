@@ -1,0 +1,13 @@
+td.name {
+    width: 250px;
+}
+.btn-margin{
+    /* margin-bottom: 20px; */
+    margin-right: 10px; 
+}
+.form-margin{
+    padding-bottom: 10px;
+}
+img.image__path {
+    width: 80px !important;
+}
